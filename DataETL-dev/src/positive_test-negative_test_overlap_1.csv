@@ -1,0 +1,49 @@
+cui,term,type
+C0279765,Endometrial Clear Cell Adenocarcinoma,DISO
+C0345964,Pulmonary Adenoma,DISO
+C1168401,Carcinoma of the Head and Neck,DISO
+C0854915,Unilateral Retinoblastoma,DISO
+C1337013,Well-differentiated Thyroid Cancer,DISO
+C1335360,Parotid Lipoma,DISO
+C1336888,Urethral Leiomyoma,DISO
+C0280856,Vulvar Squamous Cell Carcinoma,DISO
+C2202741,Vulvar Apocrine Adenocarcinoma,DISO
+C0699893,Carcinoma of the Skin,DISO
+C0023601,"Leydig cell tumor, no ICD-O subtype (morphologic abnormality)",DISO
+C1333472,Adenocarcinoma of the Ethmoid Sinus,DISO
+C0346026,Benign Mixed Tumor of the Skin,DISO
+C0744295,Gastric Leiomyosarcoma,DISO
+C0206673,Syringoma (disorder),DISO
+C0206629,Blastoma of the Lung,DISO
+C1334662,Mediastinal Lipomatosis,DISO
+C0334548,Periosteal Chondroma,DISO
+C0152018,carcinoma of the oesophagus,DISO
+C0024299,Lymphoma (Hodgkin's and Non-Hodgkin's),DISO
+C0345961,Pulmonary Epithelioid Hemangioendothelioma,DISO
+C0559460,Neuroblastoma of the Adrenal,DISO
+C0027961,Oculodermal melanocytosis (disorder),DISO
+C0855090,Refractory B-Cell Lymphoma,DISO
+C0280141,Leukemia Stem Cell,DISO
+C1332304,Carcinoma of the Anterior Tongue,DISO
+C0343115,Solitary Mastocytoma of the Skin,DISO
+C0334634,MCL,DISO
+C0024235,"Reticuloendothelial System, Lymphatic System",ANAT
+C1253917,Loose connective tissue,ANAT
+C0032112,Plasma Cell,ANAT
+C1711359,hepatobiliary,ANAT
+C1261210,Reproductive System,ANAT
+C0014136,Metabolic/Endocrine Body System,ANAT
+C0018957,Hematopoietic System,ANAT
+C0927232,"Nervous System, CNS",ANAT
+C1321512,Entire visual system,ANAT
+C0031760,Photosensitive Cell,ANAT
+C0022688,Natural Killer Cells,ANAT
+C0229960,Entire body as a whole,ANAT
+C0524979,Enteroendocrine Cells,ANAT
+C0596981,Muscle Cell,ANAT
+C1283924,"Entire nose, accessory sinus and nasopharynx, CS",ANAT
+C0028944,Oligodendroglia Cell,ANAT
+C1184173,Lymphoid system structure,ANAT
+C0682578,epithelium glandular,ANAT
+C1513019,Mature B-Lymphocyte,ANAT
+C1508753,Urologic/Renal Body System,ANAT

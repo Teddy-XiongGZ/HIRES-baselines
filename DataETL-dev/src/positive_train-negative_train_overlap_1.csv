@@ -1,0 +1,330 @@
+cui,term,type
+C1704328,"sarcoma, osteogenic osteoblastic",DISO
+C1318562,Reye's Tumor,DISO
+C1266114,Meningeal melanomatosis,DISO
+C0079774,Peripheral T-cell lymphoma unspecified,DISO
+C0278488,Breast Carcinoma Stage IV,DISO
+C1334179,Inflammatory Leiomyosarcoma,DISO
+C1710499,Type III Pleuropulmonary Blastoma,DISO
+C1704218,Storiform-Pleomorphic MFH,DISO
+C1709573,Pleural Epithelioid Hemangioendothelioma,DISO
+C2987142,PanIN-1A,DISO
+C0334454,Myxoid MFH,DISO
+C2939461,Myeloid neoplasm,DISO
+C0153957,"Cardiac Tumors, Benign",DISO
+C0279641,Childhood Acute Promyelocytic Leukemia (M3),DISO
+C0153999,benign neoplasm of the uterus,DISO
+C0854893,Primary Hemangiosarcoma,DISO
+C1134719,"Invasive Ductal Carcinoma, No Specific Type",DISO
+C0334475,Fetal Lipomatosis,DISO
+C1704334,Eccrine hidrocystoma (disorder),DISO
+C0010636,Papillary Cystadenoma,DISO
+C0043324,Xanthoma neviforme,DISO
+C1333415,Benign Epididymal Epithelial Mesothelioma,DISO
+C0206695,Neuroendocrine Carcinoma,DISO
+C2987397,Gastric Medullary Carcinoma,DISO
+C0278512,"Osteosarcoma, Metastatic",DISO
+C1536561,Ancient Neurilemmoma,DISO
+C0457529,Plexiform Ameloblastoma,DISO
+C1266045,Metanephric Adenoma,DISO
+C0862953,Non-Resectable Cholangiocellular Carcinoma,DISO
+C0206622,Adenomyoma (morphologic abnormality),DISO
+C1518869,Pancreatic Intraductal Papillary-Mucinous Neoplasm,DISO
+C0278727,Relapsed Small Cell Lung Carcinoma,DISO
+C1334691,Melanomatosis,DISO
+C1334375,Paraganglioma of the Larynx,DISO
+C1332243,Ampullary Adenocarcinoma,DISO
+C0338422,HIV Leukoencephalopathy,DISO
+C0206736,blue nevus,DISO
+C0346117,Malignant Lipomatous Neoplasm,DISO
+C1266131,Chondroid Lipoma,DISO
+C1367534,Cellular Angiofibroma,DISO
+C0031941,Tumor of the Pineal Gland,DISO
+C0334526,Strumal Carcinoid,DISO
+C0276535,"AIDS, Kaposi's Sarcoma",DISO
+C0206682,Follicular thyroid carcinoma,DISO
+C0949059,Polyp of the Large Intestine,DISO
+C0154084,Carcinoma in situ of the Breast,DISO
+C1704236,Perifollicular fibroma (disorder),DISO
+C1275210,Sebocrine adenoma,DISO
+C1704219,Deninogenic ghost cell tumour,DISO
+C1334637,Mature Teratoma of the Ovary,DISO
+C1332167,Mammary Adenocystic Carcinoma,DISO
+C0279708,Yolk Sac Tumor of the Testis,DISO
+C2985220,Anaplastic Medulloblastoma,DISO
+C1370889,Well Differentiated Liposarcoma,DISO
+C1332574,Bone Hemangiosarcoma,DISO
+C0333875,High grade squamous intraepithelial lesion,DISO
+C0024217,"Lymphangioendothelioma, NOS",DISO
+C0008487,notochordoma,DISO
+C1334298,Meningioma of the Jugular Foramen,DISO
+C0855197,Testicular Germ Cell Cancer,DISO
+C1333159,Intraepithelial Neoplasia of the Cornea,DISO
+C0278502,recurrent gastric cancer,DISO
+C0278619,Extramedullary Plasmacytoma,DISO
+C0334274,Papillary Transitional Cell Carcinoma,DISO
+C0278589,Cervical Cancer Stage IVA,DISO
+C1279296,Chronic Leukemia,DISO
+C0406803,Papillary Syringocystadenoma,DISO
+C1257877,"Pheochromocytoma, Extra-Adrenal",DISO
+C0206640,Ossifying fibroma (morphologic abnormality),DISO
+C0345893,Juvenile Polyposis,DISO
+C0349554,Low Grade VAIN,DISO
+C0862878,Dedifferentiated Chondrosarcoma,DISO
+C0346302,Somatotroph Adenomas,DISO
+C0023461,Mast Cell Leukemia,DISO
+C0346182,Ovarian Immature Teratoma,DISO
+C0541912,Carcinoma of the Duodenum,DISO
+C1328544,Tubular Carcinoma of the Breast,DISO
+C1336772,Tracheal Leiomyoma,DISO
+C0027654,embryo cancer,DISO
+C0345964,Pulmonary Adenoma,DISO
+C1377909,Renal Pelvis Papillary Urothelial Carcinoma,DISO
+C1332345,Atypical Adenomatous Lung Hyperplasia,DISO
+C1336829,Tuberculum Sellae Meningioma,DISO
+C0205898,Pineoblastoma,DISO
+C0029423,osteochondroma,DISO
+C1334675,Osteosarcoma of the Mediastinum,DISO
+C1333068,Clear Cell Myomelanocytic Tumor of the Falciform Ligament/Ligamentum Teres,DISO
+C1368041,pancreatic somatostatinoma,DISO
+C0456889,Enteropathy-type T-cell lymphoma,DISO
+C0205698,"Carcinoma, Undifferentiated",DISO
+C0280299,Buccal Mucosa Squamous Cell Carcinoma,DISO
+C1336527,Superficial Urinary Bladder Carcinoma,DISO
+C1377782,Carcinoma of Floor of Mouth,DISO
+C0334549,Periosteal Chondrosarcoma,DISO
+C1332965,congenital mesoblastic nephroma,DISO
+C1336085,Squamous Papilloma of the Nasopharynx,DISO
+C0152267,"Hodgkin's disease, lymphocytic depletion NOS",DISO
+C0278883,Metastatic Melanoma,DISO
+C0345905,Intrahepatic Cholangiocarcinoma,DISO
+C0279625,M3 Adult Acute Promyelocytic Leukemia,DISO
+C0334378,Nipple Adenoma,DISO
+C0037661,Tumor of the Delta Cells,DISO
+C1337011,Well Differentiated Pancreatic Endocrine Tumor,DISO
+C0334499,Mucinous Adenofibroma,DISO
+C1318551,Refractory anemia with excess blasts-2,DISO
+C0334443,Epithelioid Cell Melanoma,DISO
+C1519086,Pilomyxoid Astrocytoma,DISO
+C0862889,Superficial basal cell carcinoma (disorder),DISO
+C2213017,Meningeal Lymphoma,DISO
+C0007138,Urothelial Carcinoma,DISO
+C0334424,Nodular Malignant Skin Melanoma,DISO
+C0206673,Syringoma (disorder),DISO
+C1334968,Nodular Lymphocyte-Predominant Hodgkin's Lymphoma,DISO
+C1879641,Primary Cutaneous Mucinous Carcinoma,DISO
+C1332912,Cervical Clear Cell Adenocarcinoma,DISO
+C1333454,Leiomyosarcoma of the Esophagus,DISO
+C0149951,Ovarian fibroma,DISO
+C0010701,Phyllodes Neoplasm,DISO
+C1266118,Cellular Fibroma,DISO
+C0282607,Blood Vessel Neoplasm,DISO
+C1335482,Primary Burkitt's Lymphoma of the Stomach,DISO
+C1333290,Follicle Centre Lymphoma Diffuse,DISO
+C1333513,Extraosseous/Peripheral Ameloblastoma,DISO
+C0206632,"Angiolipoma, NOS",DISO
+C0558354,Carcinoma of the Palate,DISO
+C1370723,Stromal Sarcoma,DISO
+C0206631,Lipomatous neoplasm,DISO
+C0206646,Abdominal Desmoid,DISO
+C0007130,Mucous Carcinoma,DISO
+C0205766,fibromyxoma,DISO
+C0598798,Lymphoid neoplasm,DISO
+C0334578,"Ependymoma, Papillary",DISO
+C1266177,Dysembryoplastic Neuroepithelial Tumor,DISO
+C0279980,Extraskeletal Ewing's Sarcoma,DISO
+C0860580,Medullary Carcinoma of the Breast,DISO
+C0347180,Penile Intraepithelial Neoplasia,DISO
+C1301365,Systemic Mastocytosis with Associated Clonal Hematological non-Mast-Cell Lineage Disease,DISO
+C0079772,T-Cell Lymphoma,DISO
+C0079218,Desmoid-Type Fibromatosis,DISO
+C1335976,Skull Base Meningioma,DISO
+C0018852,"Heavy chain disease, NOS",DISO
+C1518725,Ovarian Mucinous Cystadenofibroma,DISO
+C1266129,Well Differentiated Liposarcoma of Superficial Soft Tissue,DISO
+C1333977,Hepatitis B Virus-Related Hepatocellular Carcinoma,DISO
+C0519037,Lymphoma of the Colon,DISO
+C0206720,Squamous cell tumor (qualifier value),DISO
+C0334448,Cellular Blue Nevus,DISO
+C0280746,Sarcoma of the Ovary,DISO
+C1332318,Apocrine Tumor,DISO
+C0278882,stage III cutaneous melanoma,DISO
+C1167725,Stage IV Pancreatic Carcinoma,DISO
+C0036220,Kaposis sarcoma,DISO
+C0280317,Tonsillar Squamous Cell Carcinoma,DISO
+C1336044,Spinal Cord Lymphoma,DISO
+C0007095,Carcinoid tumors,DISO
+C1266098,Ectopic hamartomatous thymoma,DISO
+C0149521,Pancreatitis;chronic,DISO
+C0023434,chronic lymphocytic leukaemia,DISO
+C0858252,Breast Adenocarcinoma,DISO
+C0334371,Secretory Carcinoma of the Breast,DISO
+C1321546,Anaplastic Lymphoma,DISO
+C0346172,Benign Ovarian Mucinous Cystadenoma,DISO
+C0338418,"Encephalitis, Acute Necrotizing",DISO
+C0334660,Angiotropic Lymphoma,DISO
+C1708957,Mediastinal Paraganglioma,DISO
+C0023827,liposarcoma,DISO
+C0334474,Spindle Cell Lipoma,DISO
+C0238196,carcinoma of the small intestine,DISO
+C1320453,Cervical Squamous Cell Carcinoma In Situ,DISO
+C0457179,Desmoplastic infantile astrocytoma,DISO
+C1304513,Composite hemangioendothelioma,DISO
+C2987406,Gastric Intramucosal Invasive Neoplasia,DISO
+C1336546,Synovial Hemangioma,DISO
+C0025149,Medulloblastomas,DISO
+C2826330,Refractory Anemia with Ring Sideroblasts Associated with Marked Thrombocytosis,DISO
+C0026948,MF,DISO
+C1334927,Carcinoma of the Neck,DISO
+C0346203,adenocarcinoma in situ of the cervix,DISO
+C0334477,Cellular Leiomyoma,DISO
+C1168328,Low Grade Prostatic Intraepithelial Neoplasia,DISO
+C1334921,Nasal Cavity Lymphoma,DISO
+C0733682,Familial hypophosphatemic bone disease,DISO
+C0205748,Dysplastic Nevi,DISO
+C1367652,Bronchus-Associated Lymphoid Tissue Lymphoma,DISO
+C1519982,Vestibular Micropapillomatosis,DISO
+C1260964,Anaplastic syringoma,DISO
+C0238410,Renal Pelvis Urothelial Carcinoma,DISO
+C0940607,Lipoma of the Colon,DISO
+C1335434,Pleural Lipoma,DISO
+C1334817,Multicentric Thyroid Gland Papillary Carcinoma,DISO
+C1332906,Cerebral Hemisphere Glioblastoma Multiforme,DISO
+C1377610,Mesothelioma of the Peritoneum,DISO
+C1322286,Thymic Carcinoma Excluding Well Differentiated Thymic Carcinoma,DISO
+C1511190,Bladder Inverted Papilloma,DISO
+C0349582,Trigeminal Schwannoma,DISO
+C0334392,Epithelial-Myoepithelial Carcinoma,DISO
+C0036769,"Sertoli cell tumor, no ICD-O subtype (morphologic abnormality)",DISO
+C2981712,OAL,DISO
+C1266023,Pregnancy Adenoma,DISO
+C1266111,Malignant Glomus Tumor,DISO
+C0346300,"Carcinomas, Pituitary",DISO
+C1336538,Supratentorial Primitive Neuroectodermal Tumor,DISO
+C1334660,Mediastinal Leiomyosarcoma,DISO
+C0684337,Peripheral Primitive Neuroectodermal Tumor,DISO
+C1335152,Ovarian Angiosarcoma,DISO
+C1334665,Mediastinal Malignant Lymphoma,DISO
+C0852722,Cancer of the Postcricoid Area,DISO
+C1335511,Prostate Leiomyosarcoma,DISO
+C0549473,carcinoma of the thyroid gland,DISO
+C0431094,Borderline Cystadenoma,DISO
+C0018916,haemangioma,DISO
+C0334579,Anaplastic Astrocytoma,DISO
+C1333171,Reticulohistiocytome du dos de l'adulte,DISO
+C0023321,"Lentigo, NOS",DISO
+C1334386,Meningeal Melanoma,DISO
+C0278510,"Medulloblastoma, Childhood",DISO
+C1302772,Primary cutaneous lymphoma (morphologic abnormality),DISO
+C1321547,T-Cell Rich/Histiocyte-Rich Large B-Cell Lymphoma,DISO
+C0152013,Lung Adenocarcinoma,DISO
+C0748214,Squamous Cell Carcinoma of the Pyriform Sinus,DISO
+C1378703,Renal Carcinoma,DISO
+C0346049,Fibrohistiocytic Tumor,DISO
+C0346041,Tumor of the Dermis,DISO
+C0206658,Tumor of the Smooth Muscle,DISO
+C0279592,T-Cell Adult Acute Lymphocytic Leukemia,DISO
+C1707985,Extracardiac Rhabdomyoma,DISO
+C0281508,Desmoplastic Small Round-Cell Neoplasm,DISO
+C0154016,benign neoplasm of the ureter,DISO
+C0341486,Pancreatic Cystadenoma,DISO
+C0007121,carcinoma of the bronchus,DISO
+C1520094,Vulvar Sebaceous Carcinoma,DISO
+C0037579,Soft Tissue Neoplasms,DISO
+C0334482,Fetal Rhabdomyoma,DISO
+C1333749,Gallbladder Melanoma,DISO
+C0349658,Trichoepithelioma (morphologic abnormality),DISO
+C0549175,Fibromatosis Colli,DISO
+C0346424,Splenic Hemangiosarcoma,DISO
+C1302547,Chronic lymphocytic leukemia/small lymphocytic lymphoma,DISO
+C0205828,"Lymphangioma, Cavernous",DISO
+C0585474,Bone Ewing's Sarcoma,DISO
+C1334633,Mature B-Cell Neoplasm,DISO
+C1318544,"Acute monocytic leukaemia, FAB M5b",DISO
+C0334581,Gemistocytic Astrocytoma,DISO
+C0343089,Lymphangioma circumscriptum (disorder),DISO
+C2985171,Glioneuronal Tumor with Neuropil-Like Islands,DISO
+C1532393,Nuchal-type fibroma,DISO
+C0334572,Ameloblastic Fibroma,DISO
+C0206687,Female Reproductive Endometrioid Carcinoma,DISO
+C0026470,BMH,DISO
+C1292779,5q- Syndrome,DISO
+C1334177,Infiltrating Cervical Carcinoma,DISO
+C0747154,Squamous Cell Carcinoma of the Soft Palate,DISO
+C0302592,carcinoma of the cervix,DISO
+C1518272,Neuroectodermal Cell,ANAT
+C1267793,Mononuclear phagocyte system (body structure),ANAT
+C0226875,Lower Gastrointestinal Tract,ANAT
+C1519551,Odontogenic Tissue,ANAT
+C0024235,"Reticuloendothelial System, Lymphatic System",ANAT
+C0221909,Squamous Epithelium,ANAT
+C1516798,Connective and Soft Tissue,ANAT
+C0040113,"Reticuloendothelial System, Thymus",ANAT
+C0032112,Plasma Cell,ANAT
+C0014609,"Epithelium, NOS",ANAT
+C0004388,"Autonomic nervous system, NOS",ANAT
+C1711359,hepatobiliary,ANAT
+C1515019,Subependymal Cell,ANAT
+C1261210,Reproductive System,ANAT
+C0018957,Hematopoietic System,ANAT
+C1706828,Apocrine Cell,ANAT
+C0225331,Fibrous tissue (body structure),ANAT
+C0489903,Vascular System,ANAT
+C0222331,"Adipose Tissue, Subcutaneous",ANAT
+C0001527,yellow adipose tissue,ANAT
+C1510935,Arachnoid Membrane,ANAT
+C1321512,Entire visual system,ANAT
+C0927232,"Nervous System, CNS",ANAT
+C0020962,"organ system, allergic/immunologic",ANAT
+C0282491,Structure of germinal center of lymph node,ANAT
+C1516506,Choroid Plexus Epithelium,ANAT
+C0007226,"Vascular, Heart",ANAT
+C0012240,"Organ System, Gastrointestinal",ANAT
+C0027763,Neurologic Organ System,ANAT
+C0700038,"Reproductive System, Female",ANAT
+C0014597,Epithelial Cell,ANAT
+C0225369,Chondrocyte (cell),ANAT
+C0014472,Ependyma,ANAT
+C0040300,Body tissue,ANAT
+C1278993,Entire skin,ANAT
+C0221910,Squamous Cell,ANAT
+C1513123,Meningothelial Cell,ANAT
+C1278904,Entire larynx,ANAT
+C1515441,Thyroid Gland Tissue,ANAT
+C1284822,Entire hematopoietic system,ANAT
+C0225335,Mesothelial cell (body structure),ANAT
+C0149555,Third Ventricle of Brain,ANAT
+C0596993,"Stem Cells, Myeloid",ANAT
+C1269560,Entire nervous system,ANAT
+C0016030,Fibroblasts,ANAT
+C1179157,Nasopharynx epithelium,ANAT
+C0227875,Structure of germinal epithelium of ovary,ANAT
+C1516995,Exocrine System,ANAT
+C1269565,Entire digestive system,ANAT
+C0229960,Entire body as a whole,ANAT
+C0014136,Metabolic/Endocrine Body System,ANAT
+C1708239,Germinal Layer,ANAT
+C1709897,Remnants of the Notochord,ANAT
+C0206417,PNS - Peripheral nervous system,ANAT
+C0224522,Synovial Cell,ANAT
+C0007301,Cartilage,ANAT
+C1283795,Entire genital system,ANAT
+C0023602,Interstitial Cell of the Testis,ANAT
+C0019612,"Histocyte, NOS",ANAT
+C0037253,Skeletal System,ANAT
+C1280973,Entire genitourinary system,ANAT
+C0596981,Muscle Cell,ANAT
+C0039195,Cytotoxic T Cell,ANAT
+C1269564,Entire musculoskeletal system,ANAT
+C0017136,Gastric mucosa,ANAT
+C1283924,"Entire nose, accessory sinus and nasopharynx, CS",ANAT
+C0598800,Adventitial Cell,ANAT
+C0035237,Pulmonary Organ System,ANAT
+C0017189,Alimentary Canal,ANAT
+C1184173,Lymphoid system structure,ANAT
+C0017471,Reproductive Cells,ANAT
+C0920840,Vaginal epithelium,ANAT
+C1269563,Entire central nervous system,ANAT
+C0227692,Bladder Urothelium,ANAT
+C1123023,"Skin, NOS",ANAT
+C0024296,Lymphocytic tissue structure,ANAT
