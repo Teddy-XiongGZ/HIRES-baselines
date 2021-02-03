@@ -119,8 +119,8 @@ def text_preprocessing(SAMPLE_PATHS, model, cui_info=None):
                     if len(sentences) > 10:
                         sentences = random.sample(sentences, 10)
                 if model=='CNN':
-                    if len(sentences) > 10:
-                        sentences = random.sample(sentences, 10)
+                    if len(sentences) > 100:
+                        sentences = random.sample(sentences, 100)
                 label = int(line_list[8])
                 if cui_info is not None:
                     item = EPItem([cui1, cui2, sentences, label, 
@@ -128,12 +128,7 @@ def text_preprocessing(SAMPLE_PATHS, model, cui_info=None):
                         embed_dic[cui2] if cui2 in embed_dic else embed_dic['empty']])
                 else:
                     item = EPItem([cui1, cui2, sentences, label, None, None])
-                
-                # min = -4.23762
-                # if model == 'NB':
-                #     if item.cui1_info is not None and item.cui2_info is not None:
-                #         item.cui1_info = item.cui1_info + 4.5
-                #         item.cui2_info = item.cui2_info + 4.5
+
                 samples.append(item)
     print("--done--")
 
