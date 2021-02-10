@@ -50,21 +50,6 @@ def getsentences(epitem_list):
         sentences += item.sentences
     return sentences
 
-# def mapX2epitem(epitem_list, X):
-#     i = 0
-#     for item in epitem_list:
-#         cui1_info = item.cui1_info
-#         cui2_info = item.cui2_info
-#         if cui1_info is not None and cui2_info is not None:
-#             tmp = X[i:i+item.length].copy()
-#             cui_info = np.hstack([np.tile(cui1_info, (tmp.shape[0],1)), np.tile(cui2_info, (tmp.shape[0],1))])
-#             if cui_info.shape[1] != 2000:
-#                 print(cui1_info, cui2_info)
-#             item.array = hstack((tmp, csr_matrix(cui_info)))
-#         else:
-#             item.array = X[i:i+item.length]
-#         i += item.length
-
 def mapX2epitem(epitem_list, X):
     i = 0
     # pdb.set_trace()
@@ -128,36 +113,10 @@ def text_preprocessing(SAMPLE_PATHS, model, cui_info=None):
                         embed_dic[cui2] if cui2 in embed_dic else embed_dic['empty']])
                 else:
                     item = EPItem([cui1, cui2, sentences, label, None, None])
-                
-                # min = -4.23762
-                # if model == 'NB':
-                #     if item.cui1_info is not None and item.cui2_info is not None:
-                #         item.cui1_info = item.cui1_info + 4.5
-                #         item.cui2_info = item.cui2_info + 4.5
+
                 samples.append(item)
     print("--done--")
 
-    print("--extracting features from texts--")
-    # if model=='NB' or model=='SVM' or model=='RF':
-        # tfidfvect = TfidfVectorizer(stop_words='english', max_features=FEATURE_SIZE)
-        # X = tfidfvect.fit_transform(getsentences(samples))
-        # if model=='SVM':
-        #     scaler = MaxAbsScaler()
-        #     scaler.fit(X)
-        #     X = scaler.transform(X)
-        # print(X.shape)
-        # mapX2epitem(samples, X)
-    # if model=='CNN':
-    #     tokenizer = Tokenizer(num_words=None)
-    #     tokenizer.fit_on_texts(getsentences(samples))
-    #     word_list = tokenizer.word_index
-    #     word_len = len(word_list) + 20
-    #     corpus_seq = tokenizer.texts_to_sequences(getsentences(samples))
-    #     corpus_seq = pad_sequences(corpus_seq, maxlen=PADDING_SIZE)
-    #     X = np.array(corpus_seq)
-    #     mapX2epitem(samples, X)
-        
     Y = np.array([item.label for item in samples])
-    print("--done--")
 
     return samples, Y
