@@ -9,9 +9,6 @@ from keras.preprocessing.sequence import pad_sequences
 import json
 import random
 from sklearn.preprocessing import StandardScaler, MinMaxScaler, MaxAbsScaler
-# import gc
-
-# import pdb
 
 random.seed(0)
 
